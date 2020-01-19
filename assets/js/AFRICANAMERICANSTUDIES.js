@@ -56,6 +56,8 @@ function active() {
 
 
 
+
+
 function draw() {
 
     var viz;
@@ -76,11 +78,9 @@ function draw() {
 
                 "caption": "name",
 
-                "about": "about",
+                "about": "about"
 
-                "community": "Purple"
-
-            }
+            },
 
         },
 

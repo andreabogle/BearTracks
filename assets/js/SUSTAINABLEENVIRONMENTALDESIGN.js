@@ -56,6 +56,8 @@ function active() {
 
 
 
+
+
 function draw() {
 
     var viz;
@@ -78,7 +80,7 @@ function draw() {
 
                 "about": "about"
 
-            }
+            },
 
         },
 
